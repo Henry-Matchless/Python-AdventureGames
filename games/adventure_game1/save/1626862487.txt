@@ -1,0 +1,14 @@
+You are a person with the ability to travel through time and space, and you live in a peaceful and warm world. However, on an ordinary day, Dr. Evil broke this peace ¡­¡­
+Dr. Evil, who lives in the future, is ready to come to the world you live in and planning to destroy your world.
+The only way to save your world is to bring back Dr. Evil's weapons, handbooks for invasion, or other important items from the future in Dr. Evil¡¯s territory, and defeat Dr. Evil through the Homeland Defense Bureau's research.
+As the only time traveler in the current world, you have to take your time shuttle to the future Dr. Evil's home, find these useful items successfully and return to your world in the time shuttle timely.
+According to the manual, your initial point will be the location:<OUTSIDE> of Dr. Evil's house and you can find your time shuttle in the location:<GARAGE>.
+You need to collect no less than 6 items! Be careful not to be caught by Dr. Evil unless you have the laser weapons! He may be waiting for you in one of these rooms! 
+
+
+Location: in the future factory Laboratory, Exits: ['north', 'east', 'west'] 
+Location: in the Dr. Evil's office, Exits: ['west', 'east', 'south'] 
+Location: in the Dr. Evil's bedroom, you woke Dr. Evil up and he caught you! Mission failed! You can quit the game and start it again!, Exits: ['north'] 
+Location: in the Dr. Evil's bedroom, you woke Dr. Evil up and he caught you! Mission failed! You can quit the game and start it again! 
+-------- You lose! Level: D --------
+SADLY: You were captured and brutally murdered by Dr. Evil!
